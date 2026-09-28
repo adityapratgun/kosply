@@ -57,8 +57,9 @@ UI (`screens/`, `widgets/`) dipisahkan dari logika/state (`providers/`) dan data
 ## Cara Menjalankan
 
 ```bash
-git clone <URL-REPO-KAMU>
+git clone https://github.com/adityapratgun/kosply.git
 cd kosply
+flutter create .
 flutter pub get
 flutter run -d chrome
 ```
